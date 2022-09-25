@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/drawable/list.xml" value="0.1865" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/activity_add.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/activity_list.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/activity_splash.xml" value="0.234375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/gitem.xml" value="1.0421511627906976" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/glist.xml" value="0.234375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/list.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/gtick3/app/src/main/res/layout/popup.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
